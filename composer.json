@@ -16,7 +16,7 @@
 		"barcodes",
 		"GlitchIT"
 	],
-	"license" : "LGPLv3",
+	"license" : "LGPL-3.0-only",
 	"authors" : [{
 			"name" : "Eakkabin Jaikeawma",
 			"email" : "eakkabin_it@hotmail.com",
