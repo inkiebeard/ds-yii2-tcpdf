@@ -12,9 +12,9 @@ Original readme.md below:
 TCPDF TH
 ============================================================
 
-Version: 1.0.1
+Version: 1.0.2
 
-Release date: 2016-03-13
+Release date: 2025-05-28
 
 Author:	Eakkabin Jaikeawma (CoachMaxz)
 
@@ -24,7 +24,7 @@ Install
 ============================================================
 
 ```
-$ composer require drivesoftz/yii2-tcpdf ~1.0
+$ composer require universalware/ds-yii2-tcpdf ~1.0
 ```
 
 Example 
