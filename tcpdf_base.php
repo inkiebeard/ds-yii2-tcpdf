@@ -1957,6 +1957,7 @@ class TCPDF_BASE {
 		// set default JPEG quality
 		$this->jpeg_quality = 75;
 		// initialize some settings
+		// Disabled due to PHP 8.2 compatibility issues: calling TCPDF_FONTS::utf8Bidi here causes errors in PHP 8.2 and above.
 //		TCPDF_FONTS::utf8Bidi(array(''), '', false, $this->isunicode, $this->CurrentFont);
 		// set default font
 		$this->SetFont($this->FontFamily, $this->FontStyle, $this->FontSizePt);
